@@ -1,0 +1,18 @@
+{
+  "name": "dgp",
+  "version": "0.0.1",
+  "description": "A simple package manager tool for DrupalGap",
+  "author": "Alex Schedrov",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "commander": "^2.3.0"
+  },
+  "bin": {
+    "dgp": "dgp.js"
+  },
+  "scripts": {
+    "test": "dgp --version"
+  }
+}
