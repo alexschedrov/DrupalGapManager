@@ -7,7 +7,9 @@
     "node": ">=0.10"
   },
   "dependencies": {
-    "minimist": "^1.1.0"
+    "minimist": "^1.1.0",
+    "cordova": "^3.5.0-0.2.7",
+    "underscore": "^1.7.0"
   },
   "bin": {
     "dgm": "bin/dgm.js"
