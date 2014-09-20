@@ -22,5 +22,5 @@
   "scripts": {
     "test": "dgm --version"
   },
-  "release": "https://github.com/signalpoint/DrupalGap/archive/drupalgap_7.x-1.0-rc2.zip"
+  "release": "7.x-1.0-rc2"
 }
