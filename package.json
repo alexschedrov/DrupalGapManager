@@ -2,7 +2,7 @@
   "name": "dgm",
   "version": "0.0.1",
   "description": "A simple package manager tool for DrupalGap",
-  "author": "Alex Schedrov",
+  "author": "Alexander Schedrov",
   "engines": {
     "node": ">=0.10"
   },
@@ -15,6 +15,10 @@
     "request": "^2.44.0",
     "unzip": "^0.1.11",
     "fstream": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sanchiz/DrupalGapManager.git"
   },
   "bin": {
     "dgm": "bin/dgm.js"
