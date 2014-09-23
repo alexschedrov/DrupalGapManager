@@ -14,6 +14,12 @@ or
 
 Requires [node.js](http://nodejs.org)
 
+## Available commands  
+* [create](#####create-cordova-application)
+* [dl](#donwload-module)  
+* [en](#enable-module)
+* [dis](#disable-module)
+* [pml](#show-a-list-of-available-modules)
 
 ## Example usage
 
