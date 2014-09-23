@@ -15,7 +15,7 @@ or
 Requires [node.js](http://nodejs.org)
 
 ## Available commands  
-* [create](#####create-cordova-application)
+* [create](#create-cordova-application)
 * [dl](#donwload-module)  
 * [en](#enable-module)
 * [dis](#disable-module)
