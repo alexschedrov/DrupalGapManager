@@ -15,7 +15,8 @@
     "request": "^2.44.0",
     "unzip": "^0.1.11",
     "fstream": "^1.0.2",
-    "requestify": "^0.1.16"
+    "requestify": "^0.1.16",
+    "cli-table": "^0.3.0"
   },
   "repository": {
     "type": "git",
