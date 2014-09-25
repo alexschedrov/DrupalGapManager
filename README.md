@@ -15,7 +15,7 @@ or
 Requires [node.js](http://nodejs.org)
 
 ## Available commands  
-* [create](#create-cordova-application)
+* [create](#create-application)
 * [dl](#donwload-module)  
 * [en](#enable-module)
 * [dis](#disable-module)
@@ -23,17 +23,18 @@ Requires [node.js](http://nodejs.org)
 
 ## Example usage
 
-##### Create Cordova application
+##### Create application
 	$ dgm create <PLATFORM> <NAME> [--url=<URL>]
 
-Example:
-	
-	$ dgm create ios NewApp --url=http://www.drupalgap.org
-	$ dgm create android NewApp --url=http://www.drupalgap.org
-	
-Download only SDK:
+Only SDK:
 
 	$ dgm create web web-application --url=http://www.drupalgap.org
+
+Cordova project with SDK inside:
+	
+	$ dgm create ios newApp --url=http://www.drupalgap.org
+	$ dgm create android newApp --url=http://www.drupalgap.org
+	
 	
 ##### Donwload module
 	$ dgm dl <MODULE>
