@@ -31,6 +31,10 @@ Example:
 	$ dgm create ios NewApp --url=http://www.drupalgap.org
 	$ dgm create android NewApp --url=http://www.drupalgap.org
 	
+Download only SDK:
+
+	$ dgm create web web-application --url=http://www.drupalgap.org
+	
 ##### Donwload module
 	$ dgm dl <MODULE>
 
