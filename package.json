@@ -7,16 +7,16 @@
     "node": ">=0.10"
   },
   "dependencies": {
-    "minimist": "^1.1.0",
-    "cordova": "^3.5.0-0.2.7",
-    "underscore": "^1.7.0",
-    "validator": "^3.18.1",
+    "cli-table": "^0.3.0",
+    "cordova-lib": "^0.21.13",
     "fs-extra": "^0.11.1",
-    "request": "^2.44.0",
-    "unzip": "^0.1.11",
     "fstream": "^1.0.2",
+    "minimist": "^1.1.0",
+    "request": "^2.44.0",
     "requestify": "^0.1.16",
-    "cli-table": "^0.3.0"
+    "underscore": "^1.7.0",
+    "unzip": "^0.1.11",
+    "validator": "^3.18.1"
   },
   "repository": {
     "type": "git",
