@@ -1,0 +1,15 @@
+// The {theme_name} blocks.
+drupalgap.settings.blocks.{theme_name} = {
+  header: {
+    title: {}
+  },
+  navigation: {
+    main_menu: {}
+  },
+  content: {
+    main: {}
+  },
+  footer: {
+    powered_by: {}
+  }
+};
