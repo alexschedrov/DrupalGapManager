@@ -1,6 +1,6 @@
 {
   "name": "dgm",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple package manager tool for DrupalGap",
   "author": "Alexander Schedrov",
   "engines": {
