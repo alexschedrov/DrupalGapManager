@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "cli-table": "^0.3.0",
-    "cordova": "^3.5.0-0.2.7",
+    "cordova": "^4.0.0",
     "fs-extra": "^0.11.1",
     "fstream": "^1.0.2",
     "minimist": "^1.1.0",
