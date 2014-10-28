@@ -8,12 +8,15 @@
   },
   "dependencies": {
     "cli-table": "^0.3.0",
-    "cordova-lib": "^0.21.13",
+    "cordova": "^4.0.0",
+    "cordova-ios": "^3.6.3",
+    "cordova-lib": "^4.0.0",
     "fs-extra": "^0.11.1",
     "fstream": "^1.0.2",
     "minimist": "^1.1.0",
     "request": "^2.44.0",
     "requestify": "^0.1.16",
+    "seq": "^0.3.5",
     "underscore": "^1.7.0",
     "unzip": "^0.1.11",
     "validator": "^3.18.1"
