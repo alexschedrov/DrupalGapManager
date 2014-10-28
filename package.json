@@ -29,5 +29,5 @@
   "scripts": {
     "test": "dgm --version"
   },
-  "release": "7.x-1.0-rc2"
+  "release": "7.x-1.0-rc3"
 }
