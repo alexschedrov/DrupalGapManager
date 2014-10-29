@@ -3,7 +3,7 @@ DrupalGapManager
 
 DrupalGapManager is a command-line tool and scripting interface for DrupalGap.
 
-This tool allows you to interact and manage your DrupalGap application.
+This tool allows you to interact and manage your [DrupalGap](http://www.drupalgap.org) application.
 
 ## Installation
 	$ npm install -g dgm
@@ -16,6 +16,7 @@ Requires [node.js](http://nodejs.org)
 
 ## Available commands  
 * [create](#create-application)
+* [create-theme](#create-theme)
 * [dl](#donwload-module)  
 * [en](#enable-module)
 * [dis](#disable-module)
@@ -35,6 +36,12 @@ Cordova project with SDK inside:
 	$ dgm create ios newApp --url=http://www.drupalgap.org
 	$ dgm create android newApp --url=http://www.drupalgap.org
 	
+##### Create theme
+	$ dgm create-theme <NAME>
+	
+Example:
+
+	$ dgm create-theme awesome_theme	
 	
 ##### Donwload module
 	$ dgm dl <MODULE>
