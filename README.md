@@ -12,7 +12,10 @@ or
 
 	$ sudo npm install -g dgm
 
-Requires [node.js](http://nodejs.org)
+### Dependencies
+
+* [Node.js](http://nodejs.org)
+* [Python](https://www.python.org/downloads/)
 
 ## Available commands  
 * [create](#create-application)
