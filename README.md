@@ -28,11 +28,11 @@ or
 ## Example usage
 
 ##### Create application
-	$ dgm create <PLATFORM> <NAME> [--url=<URL>]
+	$ dgm create <PLATFORM> <NAME> [--url=<URL>] [--select]
 
 Only SDK:
 
-	$ dgm create web web-application --url=http://www.drupalgap.org
+	$ dgm create web web-application --url=http://www.drupalgap.org --select
 
 Cordova project with SDK inside:
 	
