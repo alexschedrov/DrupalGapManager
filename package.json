@@ -33,5 +33,6 @@
   "scripts": {
     "test": "dgm --version"
   },
-  "stable_release": "7.x-1.0-rc3"
+  "stable_release": "7.x-1.0-rc3",
+  "development_branch": "7.x-1.x"
 }
